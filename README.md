@@ -1,0 +1,2 @@
+# BruhBOT
+Exemple Discord Bot.
